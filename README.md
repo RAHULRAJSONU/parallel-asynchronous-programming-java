@@ -34,11 +34,11 @@ The limitations that are covered in the course sets the stage for ParallelStream
 
 In this section, I will introduce you all to parallel streams and implement a simple example using Parallel Streams
 
-Introduction to Streams API and ParallelStreams
+- Introduction to Streams API and ParallelStreams
 
-Implement a simple example using ParallelStreams 
+- Implement a simple example using ParallelStreams 
 
-Write unit tests to test the ParallelStreams using JUnit5
+- Write unit tests to test the ParallelStreams using JUnit5
 
 ### Build Retail Checkout Application using Parallel Streams
 
@@ -102,11 +102,11 @@ In this section, I will introduce you to to the techniques/options that are to h
 
 I will explain and cover different exception handling and recovery techniques that are available in CompletableFuture
 
-handle()
+- handle()
 
-exceptionally()
+- exceptionally()
 
-whenComplete
+- whenComplete
 
 I will compare and explain the difference of behaviors between them and provide recommendation on using different handlers for different use cases.
 
@@ -149,13 +149,13 @@ I will code and explore the anyOf() function thats part of the CompletableFuture
 By the end of this course, you will have a complete understanding of ParallelStreams and CompletableFuture and how to use them in your projects.
 
 Who this course is for:
-Java Developers curious to write parallel programming code
-Java Developers curious to write Asynchronous programming code
-Java Developers interested in improving the knowledge about the Modern Concurrency APIs
-Java Developers interested in learning the ParallelStreams API
-Java Developers interested in learning the CompletableFuture API
+- Java Developers curious to write parallel programming code
+- Java Developers curious to write Asynchronous programming code
+- Java Developers interested in improving the knowledge about the Modern Concurrency APIs
+- Java Developers interested in learning the ParallelStreams API
+- Java Developers interested in learning the CompletableFuture API
 
 ## Requirements
--Prior Java Experience
--Java 11 or higher
--Intellij or Eclipse or Similar IDEˇ
+- Prior Java Experience
+- Java 11 or higher
+- Intellij or Eclipse or Similar IDEˇ
