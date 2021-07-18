@@ -4,7 +4,6 @@ import io.github.rahulrajsonu.domain.Product;
 import io.github.rahulrajsonu.domain.ProductInfo;
 import io.github.rahulrajsonu.domain.Review;
 import io.github.rahulrajsonu.service.ProductInfoService;
-import io.github.rahulrajsonu.service.ProductServiceUsingThread;
 import io.github.rahulrajsonu.service.ReviewService;
 
 import java.util.concurrent.ExecutionException;
