@@ -1,13 +1,14 @@
 package io.github.rahulrajsonu.forkjoin;
 
-import com.learnjava.util.DataSet;
+
+import io.github.rahulrajsonu.util.DataSet;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.learnjava.util.CommonUtil.delay;
-import static com.learnjava.util.CommonUtil.stopWatch;
-import static com.learnjava.util.LoggerUtil.log;
+import static io.github.rahulrajsonu.util.CommonUtil.delay;
+import static io.github.rahulrajsonu.util.CommonUtil.stopWatch;
+import static io.github.rahulrajsonu.util.LoggerUtil.log;
 
 public class StringTransformExample {
 

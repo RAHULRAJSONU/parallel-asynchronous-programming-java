@@ -1,11 +1,12 @@
 package io.github.rahulrajsonu.service;
 
-import com.learnjava.domain.Inventory;
-import com.learnjava.domain.ProductOption;
+import io.github.rahulrajsonu.domain.Inventory;
+import io.github.rahulrajsonu.domain.ProductOption;
 
 import java.util.concurrent.CompletableFuture;
 
-import static com.learnjava.util.CommonUtil.delay;
+import static io.github.rahulrajsonu.util.CommonUtil.delay;
+
 
 public class InventoryService {
     public Inventory addInventory(ProductOption productOption) {
